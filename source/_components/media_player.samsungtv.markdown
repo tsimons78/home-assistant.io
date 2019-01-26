@@ -123,6 +123,8 @@ and A is Asia & Australia.
 The two numbers following that represent the screen size.
 If you add your model remember to remove these first 4 characters before adding to the list.
 
+[Samsung TV Model Numbers Explained](https://www.samsung.com/uk/support/tv-audio-video/what-do-samsung-tv-model-numbers-actually-mean-why-are-they-so-long/).
+
 Changing channels can be done by calling the `media_player.play_media` service
 with the following payload:
 
